@@ -1,8 +1,8 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using RoutingdemoMVC.Models;
+using Razor.Models;
 
-namespace RoutingdemoMVC.Controllers
+namespace Razor.Controllers
 {
     public class HomeController : Controller
     {
